@@ -1,0 +1,23 @@
+.character-card {
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .character-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .character-name {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  
